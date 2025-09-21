@@ -1,55 +1,74 @@
-Educase App – Test Cases (Assignment)
+# Educase App – Test Cases (Assignment)
 
-This repository contains detailed manual test cases for the Educase App (non-logged-in user modules).
+This repository contains **manual test cases** written as part of a Junior Software Tester assignment.  
+The scope of testing was **non-logged-in user modules** of the Educase App.
 
-📌 Scope
+---
+
+## 📌 Scope
 
 Modules tested:
+- App Launch & Home Screen
+- Navigation Tabs (Enquiry, Centers, Profile, Contact)
+- Enquiry Form Validation
+- Centers Listing & Map Integration
+- Profile Access (non-logged-in users)
+- Contact Details (direct dial)
+- Birthday Banner
+- Screen Orientation & Responsiveness
 
-App Launch & Home Screen
+---
 
-Navigation Tabs (Enquiry, Centers, Profile, Contact)
-
-Enquiry Form Validation
-
-Centers Listing & Map Integration
-
-Profile Access (non-logged-in users)
-
-Contact Details (direct dial)
-
-Birthday Banner
-
-Screen Orientation & Responsiveness
-
-📝 Test Case Structure
+## 📝 Test Case Format
 
 Each test case includes:
+- **Test Case ID**
+- **Test Scenario**
+- **Preconditions**
+- **Test Steps**
+- **Expected Result**
+- **Actual Result**
+- **Status (Pass/Fail)**
+- **Comments**
 
-Test Case ID
+---
 
-Test Scenario
+## 📊 Test Execution Summary
 
-Preconditions
+- **Total Test Cases:** 17  
+- **Passed:** 13  
+- **Failed:** 4  
+  - 1 Critical Bug (Map integration not working in Centers module)  
+  - 1 UX Bug (Profile tab showing user icon for non-logged users)  
+  - 2 Content Bugs (Birthday banner and orientation issue)
 
-Test Steps
+---
 
-Expected Result
+## 📂 Repository Content
 
-Actual Result
+- `Educase_App_TestCases_Assignment_updated.xlsx` → Detailed test case sheet  
+- `screenshots/` → Evidence of test execution (if applicable)
 
-Status (Pass/Fail)
+---
 
-Comments
+## 🚀 Key Learnings
 
-📊 Highlights
+- Writing clear and concise test cases  
+- Covering **positive, negative, boundary scenarios**  
+- Documenting **bug life cycle** with proper severity  
+- Hands-on exposure to **UI/UX testing and functional validation**
 
-11 Passed Cases
+---
 
-4 Documented Bugs (Critical, UX, Content)
+## 🔗 Quick Access
 
-Clear bug reproduction steps included
+- [Download Excel Test Cases](./Educase_App_TestCases_Assignment_updated.xlsx)
 
-🔗 File Access
+---
 
-Download the Test Case Excel File
+## 📬 Author
+
+**Yash Yadav**  
+- Email: yadavyash8185@gmail.com  
+- LinkedIn: [linkedin.com/in/yash-yadav-11y](https://linkedin.com/in/yash-yadav-11y)  
+- GitHub: [github.com/YadavYash8185](https://github.com/YadavYash8185)
