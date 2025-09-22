@@ -47,7 +47,7 @@ Each test case includes:
 ## 📂 Repository Content
 
 - `Educase_App_TestCases_Assignment_updated.xlsx` → Detailed test case sheet  
-- `screenshots/` → Evidence of test execution (if applicable)
+- Bug Home Page Screenshot
 
 ---
 
