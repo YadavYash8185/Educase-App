@@ -48,6 +48,8 @@ Each test case includes:
 
 - `Educase_App_TestCases_Assignment_updated.xlsx` → Detailed test case sheet  
 - Bug Home Page Screenshot
+- Map Issue Screenshot
+- Center Issue Screenshot
 
 ---
 
